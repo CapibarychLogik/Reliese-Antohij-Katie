@@ -58,6 +58,7 @@ iframe {
     border: 5px solid rgb(165, 112, 42);
     border-radius: 15px;
     margin-left: 15%;
+    text-align: center;
 }
 .marker1{
     font-size: 20px;
@@ -83,6 +84,7 @@ h5{
     background-image: linear-gradient(to right, white, rgb(253, 238, 150), white);
 }
 .photo3{
+    text-align: center;
     margin-left: 15%;
     width: 700px;
     height: 400px;
